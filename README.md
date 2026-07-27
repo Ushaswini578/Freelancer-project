@@ -8,9 +8,11 @@ This is my final year project developed as part of my Bachelor's degree. The pro
 - JavaScript
 - React
 - Node.js
-- MongoDB
+- Sql
 
 ## Features
 - User Authentication
 - Responsive Design
 - Database Integration
+Author
+Bhattaram Ushaswini Abhigna
